@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.txt;md5;a498725399158b7c272090aac796bfb6",
+  "spider": "https://jiasu.b.6.8.0.4.2.0.0.0.7.4.0.1.0.0.2.ip6.arpa/https://raw.githubusercontent.com/taoge79/tyftvbox/refs/heads/master/jar/fan.txt;md5;a498725399158b7c272090aac796bfb6",
   "lives": [
     {"name": "migu","type": 0,"url": "https://develop202.github.io/migu_video/interface.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
     {"name": "live","type": 0,"url": "https://epg.pw/test_channels.m3u","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
